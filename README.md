@@ -22,18 +22,18 @@ LookML Reference: https://docs.looker.com/data-modeling/learning-lookml/what-is-
 ### Key Terminology of the proposed solution
 
 1. Pages
-    - This is the section where the business user would select different data labels available to construct his own meaningful graph
+    - This is the section where the business user would select different data `Labels` available to construct his own meaningful graph
     
 2. Explore
-    - This is the section where a Business Analyst typically creates meaningful Labels requested by the business
-    - This section would use Feilds created from the Develop section
+    - This is the section where a Business Analyst typically creates meaningful `Labels` requested by the business
+    - This section would use `Fields` created from the Develop section
     
 3. Develop
-    - The section would be in an intermediate format (like LookML) with the use of DSL created to pick the necessary columns/fields from different data sources
-    - This section will have complete versioning enabled to keep track of fields created
+    - The section would be in an intermediate format (like LookML) with the use of DSL created to pick the necessary  `Fields` from different data sources
+    - This section will have complete versioning enabled to keep track of fields created.
     
 4. Configure
-    - This is the section where the BI tool admin would configure connections to different data source. Read actual schemas from the DB's or otherwise
+    - This is the section where the BI tool admin would configure connections to different data source(s). Read actual schemas and table structures and persist.
     - This also provided facility to manage Identity and Access Management to provided required level of access to the users.
     
     
