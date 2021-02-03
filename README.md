@@ -1,6 +1,6 @@
 # Seeker
 
-### This document would briefly explains the problem of the modern BI tooling landscape, high level implementation details, user personas, tools/frameworks/libraries to be used to build a self-serviceable BI tool. 
+### This document would briefly explain the problem of the modern BI tooling landscape, high level implementation details, user personas, tools/frameworks/libraries to be used to build a self-serviceable BI tool. 
 
 ### Objective
 
