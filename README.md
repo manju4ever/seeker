@@ -29,7 +29,7 @@ LookML Reference: https://docs.looker.com/data-modeling/learning-lookml/what-is-
     - This section would use `Fields` created from the Develop section
     
 3. Develop
-    - The section would be in an intermediate format (like LookML) with the use of DSL created to pick the necessary  `Fields` from different data sources
+    - The section would be in an intermediate format (like LookML) with the use of DSL created to pick the necessary  `Fields` from different data sources and formats.
     - This section will have complete versioning enabled to keep track of fields created.
     
 4. Configure
@@ -39,8 +39,8 @@ LookML Reference: https://docs.looker.com/data-modeling/learning-lookml/what-is-
     
 ### Available Open Source Solutions which almost provide features like above
 
-1. Apache SuperSet
-2. Metabase
+1. Apache SuperSet - https://superset.apache.org
+2. Metabase - https://www.metabase.com (Self Hostd Version)
 
 
 ### Available Commercial Solutions
