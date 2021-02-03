@@ -15,4 +15,7 @@ Design a self-servicable Business Intelligence (BI) tool to support exploration,
 
 * The creation of DSL for applications in general seems to be increasing over the past few years. These DSL(s) can be seen in areas such as Oceanography, Meteorology, Quantum Computing, and many other fileds to provide an open format to process complex instructions behind the screens.
 
+* One specific example of DSL used on the BI Field today which has seen enormous growth is LookML. LookML is the crux of Looker owned by Google.
+
+Reference: https://docs.looker.com/data-modeling/learning-lookml/what-is-lookml
 
